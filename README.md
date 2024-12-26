@@ -14,3 +14,6 @@
   - 測試使用，將 22 port 轉向到 50000 port
   - 預設帳號 fei
   - 預設密碼 feifeiP@ssword!
+
+## 影片看這裡
+- https://www.youtube.com/watch?v=pLW-syOG5Ro
